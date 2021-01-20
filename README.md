@@ -13,4 +13,13 @@ When powered the LED will turn red. The LED has the following colors:
 * White
 * Off
 
-Color can be changed by pressing the button
+Color can be changed by pressing the button  
+
+Hardware needed for lights:  
+* Pushbutton
+* 10k Ohm resistor
+* Wires. At least 7
+* RGB Led
+* 3 220 Ohm resistors
+* An Arduino. I'm using a Arduino Nano because it is small and wil fit in the hilt easier
+* Power. I'm using a powerbank so it is rechargeable 
